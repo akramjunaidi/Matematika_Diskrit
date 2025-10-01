@@ -1,0 +1,4 @@
+print("p AND q", p and q)
+print("NOT P", not p)
+print("p OR q", p or q")
+print("p XOR q", p ^ q)
