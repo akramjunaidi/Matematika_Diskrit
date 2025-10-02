@@ -22,5 +22,6 @@ print("p =", True, ", q =", True, "=> p XOR q =", True ^ True)
 print("p =", True, ", q =", False, "=> p XOR q =", True ^ False)
 print("p =", False, ", q =", True, "=> p XOR q =", False ^ True)
 print("p =", False, ", q =", False, "=> p XOR q =", False ^ False)
+n
 
 
