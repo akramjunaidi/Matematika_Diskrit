@@ -5,4 +5,3 @@ print("7,5 + 3,3")
 print("p AND q", p and q)
 nama = input("masukkan nama:")
 print("nama")
-
